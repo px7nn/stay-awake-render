@@ -22,4 +22,4 @@ async function ping(){
 }
 
 ping()
-setInterval(ping, 1000 * 60 * 5)
+setInterval(ping, 210000) // 3.5 mins
